@@ -7,7 +7,7 @@
 ```
 1 10 20 20 2 5
 ```
-- przykładowew dane wyjściowe:
+- przykładowe dane wyjściowe:
 
 ```
 1 2 5 10 20
